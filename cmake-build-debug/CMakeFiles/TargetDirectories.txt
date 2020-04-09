@@ -1,0 +1,3 @@
+/Users/humbertobernal/CLionProjects/p272/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/humbertobernal/CLionProjects/p272/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/humbertobernal/CLionProjects/p272/cmake-build-debug/CMakeFiles/p272.dir
